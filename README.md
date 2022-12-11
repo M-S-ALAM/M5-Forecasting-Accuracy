@@ -5,7 +5,7 @@ Machine Learning/Time Forecasting
 
 ### 1.1 Problem Description
 
-### 1.1 What is sales forecasting?
+### What is sales forecasting?
 <pre>The technique of anticipating future sales, either short- or long-term, using previous sales data is known as sales forecasting.</pre>
 
 
