@@ -15,7 +15,7 @@ Machine Learning/Time Forecasting
 
 ### 1.2  Features in the Dataset
 <pre>
-Source:-[https://www.kaggle.com/sherinclaudia/sarcastic-comments-on-reddit](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)</pre>
+Source:-[https://www.kaggle.com/competitions/m5-forecasting-accuracy/data](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)</pre>
 ## 1.3 Source
 <pre>
 <li> https://www.kaggle.com/sherinclaudia/sarcastic-comments-on-reddit </li>
