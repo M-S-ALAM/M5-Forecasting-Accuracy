@@ -28,7 +28,7 @@ Source:-[https://www.kaggle.com/sherinclaudia/sarcastic-comments-on-reddit](http
 
 <li> High Interpret ability since we must understand the crucial factor that contributed to good predictions.</li>
 <li> No rigorous low latency is required because we need to forecast sales daily rather than minute by minute or hour by hour.</li> </pre>
-##  2.Machine Learning Problem
+# ${\color{blue}  2.Machine Learning Problem}$
 <pre> We need to categorise a given data point into one of two classes indicating whether the statement is sarcastic or non sarcastic.This is Binary classification Problem.</pre>
 
 ### 2.2 Example Data Point
