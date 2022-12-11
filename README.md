@@ -1,4 +1,4 @@
-#<font color=red> M5 Forecasting Accuracy </font>
+# {\color{green} M5 Forecasting Accuracy}
 
 Machine Learning/Time Forecasting
 
