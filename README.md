@@ -42,7 +42,7 @@ Source:-[https://www.kaggle.com/sherinclaudia/sarcastic-comments-on-reddit](http
 <pre> We need to categorise a given data point into one of two classes indicating whether the statement is sarcastic or non sarcastic.This is Binary classification Problem.</pre>
 ### 2.4 Performance metric
 <pre> 
-<li>Root Mean squared error </li> 
+<li>Root Mean squared error(RMSE) </li> 
 </pre>
 
-### Blog link:-[https://medium.com/@mdshahbazpatna012/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4](https://medium.com/@msalamiitd/m-5-forecasting-accuracy-a363ace1a272)
+### Blog link:-[https://medium.com/@msalamiitd/m-5-forecasting-accuracy-a363ace1a272](https://medium.com/@msalamiitd/m-5-forecasting-accuracy-a363ace1a272)
