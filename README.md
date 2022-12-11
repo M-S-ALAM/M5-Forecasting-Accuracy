@@ -24,7 +24,7 @@ Source:-[https://www.kaggle.com/sherinclaudia/sarcastic-comments-on-reddit](http
 <li> https://www.kaggle.com/yudhagalang/lstm-text-classification-on-reddit-sarcasm </li>
 <li> https://arxiv.org/pdf/1610.08815.pdf</pre>
 ## 1.4 Bussnies Objective and Constraints:-
-<pre>Data is provided by kaggle https://www.kaggle.com/sherinclaudia/sarcastic-comments-on-reddit,to predict the comment is sarcastic or non sarcastic.This problem is classification problem(Supervised Learning).The features we have in train data label,author,comment,ups,downs,score, subreddit,created_utc,parent_comment.
+<pre>
 
 <li> High Interpret ability since we must understand the crucial factor that contributed to good predictions.</li>
 <li> No rigorous low latency is required because we need to forecast sales daily rather than minute by minute or hour by hour.</li> </pre>
@@ -42,7 +42,7 @@ Source:-[https://www.kaggle.com/sherinclaudia/sarcastic-comments-on-reddit](http
 <pre> We need to categorise a given data point into one of two classes indicating whether the statement is sarcastic or non sarcastic.This is Binary classification Problem.</pre>
 ### 2.4 Performance metric
 <pre> 
-<li>Confusion metric </li> 
-<li>Accuracy</li></pre>
+<li>Root Mean squared error </li> 
+</pre>
 
-### Blog link:-https://medium.com/@mdshahbazpatna012/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4
+### Blog link:-[https://medium.com/@mdshahbazpatna012/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4](https://medium.com/@msalamiitd/m-5-forecasting-accuracy-a363ace1a272)
